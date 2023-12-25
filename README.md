@@ -7,7 +7,7 @@ I'm a Front-End Web Developer
 I have been coding consistently for <1 year, however, my dedication and growing love have me coding pretty much every day and learning really quickly. It is my hope to become a full-stack developer and use my analytical personality to do what I love.
 
 * 🌍  I'm based in Jamaica
-* 🖥️  See my portfolio at [Personal Portfolio](http://github.com/NaeOutchere)
+* 🖥️  See my portfolio at [Personal Portfolio]https://denaerose.netlify.app/
 * ✉️  You can contact me at [denaerose97@yahoo.com](mailto:denaerose97@yahoo.com)
 * 🚀  I'm currently working on [Rent Payment Web Application](http:///github.com/NaeOutchere)
 * 🧠  I'm learning Django and MongoDB
